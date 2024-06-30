@@ -30,10 +30,10 @@ See [my guide](https://github.com/rootiest/zippy_guides/guides/chezmoi) for more
 [Klipper](https://klipper3d.org) is a 3D printer firmware that runs on
 Linux-based systems with Python3 installed.
 
-    It is not a fork of Marlin or any other firmware,
+It is not a fork of Marlin or any other firmware,
+but a completely different project that achieves many of the same goals.
 
-but a different software that achieves many of the same goals. Klipper's
-main advantage is that it offloads the calculations from the printer's
+Klipper's main advantage is that it offloads the calculations from the printer's
 microcontroller to the host computer, which can be much more powerful.
 
 Presumably, if you've found this repository, you already have some idea
