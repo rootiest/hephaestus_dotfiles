@@ -12,7 +12,7 @@
  GNU Affero General Public License for more details.
 
  You should have received a copy of the GNU Affero General Public License
- along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ along with this program.   If not, see <https://www.gnu.org/licenses/>.
 -->
 
 # Hephaestus dotfiles
@@ -50,7 +50,7 @@ from view in the file manager because they start with a dot (`.`) or are in a
 hidden directory.
 
 Klipper does not place its configuration files in hidden directories,
-but th term "dotfiles" is still used to refer to the configuration files
+but the term "dotfiles" is still used to refer to the configuration files
 of the system.
 
 ## Why chezmoi?
@@ -165,10 +165,10 @@ And I will also document how I did so and how you can do the same.
 
 ## Dotfiles Installation
 
->> **WARNING:** This repository is NOT intended for public use.
->>
->> If you follow the instructions below, you will likely make a mess of
->> your own dotfiles and Klipper configuration.
+> > **WARNING:** This repository is NOT intended for public use.
+> >
+> > If you follow the instructions below, you will likely make a mess of
+> > your own dotfiles and Klipper configuration.
 
 This repository is built with [chezmoi](https://www.chezmoi.io/).
 
@@ -228,6 +228,7 @@ To install my dotfiles, run the following command:
 ```sh
 chezmoi init https://github.com/rootiest/hephaestus_dotfiles.git
 ```
+
 This will clone the repository.
 
 To view the changes that will be made, run the following command:
@@ -235,6 +236,7 @@ To view the changes that will be made, run the following command:
 ```sh
 chezmoi diff
 ```
+
 You will then be presented with all the changes that will be made.
 
 There will likely be a lot, because running the next command will overwrite
@@ -274,11 +276,11 @@ The structure will be split between two main parts:
    more in-depth guides for those who want to use chezmoi for more complex
    configurations.
 
-    This will be available in
-    [my zippy-guides repository](https://github.com/rootiest/zippy_guides/guides/chezmoi).
+   This will be available in
+   [my zippy-guides repository](https://github.com/rootiest/zippy_guides/guides/chezmoi).
 
-    > **Note:** The guides and blog are not yet available.
-    > I will update this README when they become available.
+   > **Note:** The guides and blog are not yet available.
+   > I will update this README when they become available.
 
 ## Contributing
 
