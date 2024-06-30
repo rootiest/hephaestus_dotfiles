@@ -1,0 +1,54 @@
+{
+    "hot_mesh": {},
+    "metadata": {
+        "script": {
+            "data_structure": 4,
+            "hot_duration": 3,
+            "version": "FDC 2.0"
+        },
+        "user": {
+            "backers": "none",
+            "home_type": "nozzle_pin",
+            "id": "rootiest",
+            "notes": "",
+            "printer": "voron_v2_300",
+            "probe_type": "tap",
+            "timestamp": "2023-05-21_15-38-45",
+            "x_rails": "1x_mgn12_front"
+        },
+        "z_axis": {
+            "Tramming": "quad_gantry_level",
+            "bed_mesh": {
+                "algorithm": "bicubic",
+                "bicubic_tension": 0.2,
+                "fade_end": 0.0,
+                "fade_start": 1.0,
+                "horizontal_move_z": 10.0,
+                "mesh_max": [
+                    290.0,
+                    285.0
+                ],
+                "mesh_min": [
+                    10.0,
+                    10.0
+                ],
+                "mesh_pps": [
+                    2,
+                    2
+                ],
+                "move_check_distance": 3.0,
+                "probe_count": [
+                    7,
+                    7
+                ],
+                "relative_reference_index": 24,
+                "speed": 500.0,
+                "split_delta_z": 0.01
+            },
+            "homing_speed": 3.0,
+            "max_z": 260.0,
+            "step_dist": 7.8125e-05,
+            "z_tilt": null
+        }
+    }
+}

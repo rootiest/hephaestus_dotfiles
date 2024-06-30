@@ -1,0 +1,195 @@
+Starting!
+Homing...DONE
+Tramming gantry/bed...DONE
+Setting heater targets: Bed=105.0 degC; Tool=150.0 degC
+Parking toolhead at Z=208.0mm for bed heating...DONE
+Waiting for bed to reach 105.0 degC...DONE
+Heatsoaking bed for 0min...DONE                     
+Starting!
+Homing...DONE
+Taking meshes measurements for the next 180 min.
+                                                   Measuring (#0)...DONE                     
+                                                   Measuring (#1)...DONE                     
+                                                   Measuring (#2)...DONE                     
+                                                   Measuring (#3)...DONE                     
+                                                   Measuring (#4)...DONE                     
+                                                   Measuring (#5)...DONE                     
+                                                   Measuring (#6)...DONE                     
+                                                   Measuring (#7)...DONE                     
+                                                   Measuring (#8)...DONE                     
+                                                   Measuring (#9)...DONE                     
+                                                   Measuring (#10)...DONE                     
+                                                   Measuring (#11)...DONE                     
+                                                   Measuring (#12)...DONE                     
+                                                   Measuring (#13)...DONE                     
+                                                   Measuring (#14)...DONE                     
+                                                   Measuring (#15)...DONE                     
+                                                   Measuring (#16)...DONE                     
+                                                   Measuring (#17)...DONE                     
+                                                   Measuring (#18)...DONE                     
+                                                   Measuring (#19)...DONE                     
+                                                   Measuring (#20)...DONE                     
+                                                   Measuring (#21)...DONE                     
+                                                   Measuring (#22)...DONE                     
+                                                   Measuring (#23)...DONE                     
+                                                   Measuring (#24)...DONE                     
+                                                   Measuring (#25)...DONE                     
+
+Writing results to file thermal_quant_rootiest_2023-05-21_15-43-57.json...DONE
+G-code command 'SET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0.0', failed. Retry 1/3
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...G-code command 'G28', failed. Retry 1/1
+Starting!
+Homing...
