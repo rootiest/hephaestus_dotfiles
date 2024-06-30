@@ -1,4 +1,5 @@
 octoeverywhere.conf
+secrets.fish
 dot_git/
 .vscode/
 moonraker_secrets.ini
